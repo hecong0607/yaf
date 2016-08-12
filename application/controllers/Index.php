@@ -14,8 +14,7 @@ class IndexController extends Yaf_Controller_Abstract {
     }
     public function testAction() {
 
-		var_dump('test123561212');
-		var_dump('证书1');
+		var_dump('test123561213');
 		die;
 
     }
